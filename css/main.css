@@ -1,0 +1,25 @@
+* {
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    text-align: center;
+    background-color: #8B4513;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.3em;
+}
+
+input {
+
+    background-color: #ffff;
+    color: black;
+    margin: 0;
+    height: auto;
+    width: auto;
+}
+
+.tabela {
+    display: flex;
+    border: none;
+}
